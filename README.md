@@ -8,10 +8,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RavikFerreira&show_icons=true&theme=dark&title_color=f2e507&text_color=fafafa&bg_color=0d0d0d&hide_border=true&locale=en&layout=compact"/>
  </div>
 
-  <div>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eltonk2k&theme=dark" alt="Ravik Ferreira" />
-  </div>
-
 <div>
 <h3 align="center">Contact:</h3>
 <p align="center">
@@ -22,6 +18,6 @@
 
 <div>
 <h3 align="center">LInguagens e Ferramentas:</h3>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="70"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="70"/> </a>
 </div>
