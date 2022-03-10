@@ -11,13 +11,11 @@
 <div>
 <h3 align="center">Contact:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ravik-ferreira-623009212/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/ravik-ferreira-623009212/" /></a>
-<a href="ravikferreira.developer@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<a href="https://www.linkedin.com/in/ravik-ferreira-623009212/" target="center"><img align="blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/ravik-ferreira-623009212/" /></a>
+<a href="https://instagram.com/ravik_fr" target="center"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="center"></a>
+<a href = "mailto:ravikferreira.developer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="center"></a>
+
   </div>
-  <div> 
-  <a href="https://instagram.com/ravik_fr" target="center"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ravikferreira.developer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="center"></a>
 
 <div>
 <h3 align="center">LInguagens e Ferramentas:</h3>
