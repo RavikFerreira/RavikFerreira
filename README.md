@@ -22,4 +22,6 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="70"/> </a>
 </div>
 
-  
+   ![Animação de cobra](https:https://github.com/RavikFerreira/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
