@@ -1,0 +1,29 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa diariamente à meia-noite
+  workflow_dispatch: # Permite rodar manualmente o workflow
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout do repositório
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Gera a animação da cobrinha
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: RavikFerreira # Substitua pelo seu username
+          outputs: dist/snake.svg
+
+      # Publica a animação na branch 'output'
+      - name: Publish Snake Animation
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: output
+          build_dir: dist
