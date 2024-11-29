@@ -1,6 +1,4 @@
 ### Hi there! 👋 Sou Ravik Ferreira
-
-- 🌱 Atualmente estou aprendendo **Java**!
   
 <div align="center">
   <a href="https://github.com/RavikFerreira">
