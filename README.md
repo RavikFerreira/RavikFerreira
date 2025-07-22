@@ -7,7 +7,7 @@
   - **Container Orchestration** using Docker
   - **Arquiteture Microsservices** using Apache Kafka
 - 🌍 Based in Brazil
-- 💼 Open to Back-End Developer opportunities and collaborations
+- 💼 Open to Back-End Developer opportunitie and collaboration
 
 ***
 
