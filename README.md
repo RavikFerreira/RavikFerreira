@@ -1,26 +1,78 @@
-### Hi there! 👋 Sou Ravik Ferreira
-  
+<h1 align="left">👋 Hi there, I'm Ravik Ferreira!</h1>
+
+### 🧑‍💻 About Me
+
+- ⚙️ Focused on:
+  - **Infrastructure as Code** with Java (Spring Boot and Micronaut)
+  - **Container Orchestration** using Docker
+  - **Arquiteture Microsservices** using Apache Kafka
+- 🌍 Based in Brazil
+- 💼 Open to Back-End Developer opportunities and collaborations
+
+***
+
+<h2 align="left">🚀 Skills & Tools</h2>
+
 <div align="center">
-  <a href="https://github.com/RavikFerreira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RavikFerreira&show_icons=true&theme=dark&title_color=f5e507&text_color=ffffff&bg_color=0d0d0d" alt="Ravik Ferreira's GitHub stats"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RavikFerreira&show_icons=true&theme=dark&title_color=f2e507&text_color=fafafa&bg_color=0d0d0d&hide_border=true&locale=en&layout=compact" alt="Top Languages"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+</div>
+
+###
+
+
+<h2 align="left">📈 GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RavikFerreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RavikFerreira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">📫 Connect with Me</h2>
+
+###
+
+<div align="center">
+
+📧 **Email: <a href="mailto:ravikferreira.developer@gmail.com">ravikferreira.developer@gmail.com</a>**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ravik-ferreira/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/RavikFerreira)
+
 </div>
 
 ---
 
-<h3 align="center">📞 Contact:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ravik-ferreira-623009212/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/ravik_fr" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:ravikferreira.developer@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+###
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RavikFerreira/RavikFerreira/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RavikFerreira/RavikFerreira/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RavikFerreira/RavikFerreira/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
